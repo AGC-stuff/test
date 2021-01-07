@@ -1,0 +1,6 @@
+$CORE_MEMORY_DEFS.agc
+$BOOT.agc
+$T3RUPT.agc
+$STARTUP.agc
+$DSKY.agc
+$CONSTANTS.agc
